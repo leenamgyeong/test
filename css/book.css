@@ -1,0 +1,434 @@
+/* unvisited link */
+a:link {
+    color: inherit;
+}
+
+/* visited link */
+a:visited {
+    color: inherit;
+}
+
+/* mouse over link */
+a:hover {
+    color: inherit;
+}
+
+/* selected link */
+a:active {
+    color: inherit;
+}
+
+a{
+	text-decoration: none;
+}
+h1{
+	margin-left: 0;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-size: 38.000px;
+	font-family: "Helvetica Neue";
+	color: #005C52;
+	letter-spacing: 0.000em;
+	font-variant: normal;
+	text-transform: none;
+	text-align: left;
+	text-indent: 0;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+p{
+	margin: 0px;
+}
+sub{
+	vertical-align: -10%;
+	font-size: 67%;
+}
+sup{
+	vertical-align: 33%;
+	font-size: 67%;
+}
+td{
+	overflow: hidden;
+}
+@font-face{
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-size: 20.000px;
+	font-family: "Damascus";
+	font-variant: normal;
+	src: url(../fonts/DamascusBold.ttf) format(truetype);
+}
+@font-face{
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-size: 16.000px;
+	font-family: "Nanum Myeongjo";
+	font-variant: normal;
+	src: url(../fonts/NanumMyeongjoBold.ttf) format(truetype);
+}
+.s1{
+	width: 1024.000px;
+	height: 768.000px;
+	background: url('../images/IMG_1880.png'); background-size: 115.819% 102.902%; background-repeat: repeat; background-position: left top;
+}
+.s2{
+	width: 1024.000px;
+	height: 768.000px;
+	background: #000000;
+}
+.p1{
+	font-style: normal;
+	font-weight: 300;
+	font-stretch: normal;
+	font-size: 16.000px;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	text-transform: none;
+	font-variant: normal;
+	text-align: left;
+	text-indent: 0;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p2{
+	font-weight: 700;
+	font-size: 20.000px;
+	color: #FFFFFF;
+}
+.p3{
+	font-weight: 400;
+	font-size: 56.000px;
+	font-family: "Heiti SC";
+	color: #FFFFFF;
+}
+.p4{
+	font-weight: 400;
+	font-size: 84.000px;
+	font-family: "Bodoni 72";
+	color: #FFFFFF;
+	text-align: center;
+}
+.p5{
+	color: #FFFFFF;
+}
+.p6{
+	font-weight: 700;
+	font-size: 14.000px;
+	color: #FFFFFF;
+}
+.p7{
+	font-weight: 700;
+	font-size: 20.000px;
+	font-family: "Damascus";
+	color: #FFFFFF;
+}
+.p8{
+	font-weight: 700;
+	font-family: "Nanum Myeongjo";
+	color: #FFFFFF;
+}
+.p9{
+	font-weight: 700;
+	font-family: "Didot";
+	color: #FFFFFF;
+}
+.p10{
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-size: 16.000px;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.000em;
+	text-transform: none;
+	font-variant: normal;
+	text-align: left;
+	text-indent: 0;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p11{
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-size: 38.000px;
+	font-family: "Helvetica Neue";
+	color: #FFFFFF;
+	letter-spacing: 0.000em;
+	text-transform: none;
+	font-variant: normal;
+	text-align: left;
+	text-indent: 0;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p12{
+	color: #D8D2C8;
+}
+.p13{
+	font-size: 17.000px;
+	font-family: "Helvetica";
+	color: #FFFFFF;
+	letter-spacing: 0.040em;
+}
+.p14{
+	font-size: 17.000px;
+	color: #FFFFFF;
+	letter-spacing: 0.040em;
+}
+.p15{
+	font-weight: 700;
+	font-size: 32.000px;
+	color: #FFFFFF;
+}
+.p16{
+	font-size: 20.000px;
+	font-family: "Helvetica";
+}
+.p17{
+	font-size: 21.000px;
+	font-family: "Helvetica";
+	color: #FFFFFF;
+	letter-spacing: 0.040em;
+}
+.p18{
+	font-weight: 700;
+	font-size: 32.000px;
+}
+.p19{
+	font-style: italic;
+	font-weight: 400;
+	font-stretch: normal;
+	font-size: 12.000px;
+	font-family: "Helvetica Neue";
+	color: #000000;
+	letter-spacing: 0.010em;
+	text-transform: none;
+	font-variant: normal;
+	text-align: center;
+	text-indent: 0;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p20{
+	font-style: italic;
+	font-weight: 400;
+	font-stretch: normal;
+	font-size: 12.000px;
+	font-family: "Helvetica Neue";
+	color: #D8D2C8;
+	letter-spacing: 0.010em;
+	text-transform: none;
+	font-variant: normal;
+	text-align: center;
+	text-indent: 0;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.p21{
+	font-weight: 700;
+	font-size: 27.000px;
+	color: #FFFFFF;
+}
+.p22{
+	font-family: "Helvetica";
+	color: #FFFFFF;
+}
+.p23{
+	font-weight: 400;
+	font-size: 35.000px;
+	color: #FFFFFF;
+	letter-spacing: 0.090em;
+}
+.p24{
+	font-weight: 700;
+	font-size: 31.000px;
+	color: #FFFFFF;
+}
+.p25{
+	font-size: 31.000px;
+	color: #FFFFFF;
+}
+.p26{
+	color: #FFFFFF;
+	letter-spacing: 0.030em;
+}
+.p27{
+	color: #FFFFFF;
+	letter-spacing: 0.040em;
+}
+.p28{
+	font-style: normal;
+	font-weight: 300;
+	font-stretch: normal;
+	font-size: 16.000px;
+	font-family: "Helvetica Neue";
+	color: #FFFFFF;
+	letter-spacing: 0.000em;
+	text-transform: none;
+	font-variant: normal;
+	text-align: left;
+	text-indent: 0;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-webkit-text-stroke-color: initial;
+	-webkit-text-stroke-width: initial;
+	text-shadow: none;
+}
+.c1{
+	font-size: 1px;
+}
+.c2{
+	font-size: 20.000px;
+	background: transparent;
+}
+.c3{
+	font-size: 28.000px;
+}
+.c4{
+	font-size: 71.000px;
+}
+.c5{
+	font-size: 56.000px;
+	background: transparent;
+}
+.c6{
+	font-size: 54.000px;
+}
+.c7{
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-family: "Heiti SC";
+}
+.c8{
+	font-size: 14.000px;
+	background: transparent;
+}
+.c9{
+	font-style: normal;
+	font-weight: 900;
+	font-stretch: condensed;
+	font-family: "Helvetica Neue";
+}
+.c10{
+	font-style: normal;
+	font-weight: 900;
+	font-stretch: condensed;
+	font-family: "Helvetica Neue";
+	color: #FACE48;
+}
+.c11{
+	color: #FACE48;
+}
+.c12{
+	font-size: 16.000px;
+	background: transparent;
+}
+.c13{
+	font-size: 17.000px;
+	background: transparent;
+}
+.c14{
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-family: "Helvetica Neue";
+}
+.c15{
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-family: "Helvetica Neue";
+}
+.c16{
+	font-size: 21.000px;
+	background: transparent;
+}
+.c17{
+	font-size: 17.000px;
+}
+.c18{
+	font-style: normal;
+	font-weight: 400;
+	font-stretch: normal;
+	font-size: 17.000px;
+	font-family: "Helvetica Neue";
+}
+.c19{
+	font-size: 27.000px;
+	background: transparent;
+}
+.c20{
+	font-size: 34.000px;
+}
+.c21{
+	font-size: 35.000px;
+	background: transparent;
+}
+.c22{
+	font-style: normal;
+	font-weight: 700;
+	font-stretch: normal;
+	font-size: 35.000px;
+	font-family: "Helvetica Neue";
+	background: transparent;
+}
+.c23{
+	font-size: 31.000px;
+	background: transparent;
+}
+.c24{
+	font-style: normal;
+	font-weight: 300;
+	font-stretch: normal;
+	font-family: "Helvetica Neue";
+}
+.c25{
+	letter-spacing: 0.030em;
+}
+.c26{
+	color: #FFFFFF;
+}
+.body {
+}
+.underline {
+	text-decoration: underline;
+}
+.orientation-opposed .underline {
+	text-decoration: overline;
+}
+.strikethrough {
+	text-decoration: line-through;
+}
+.underline-strikethrough {
+	text-decoration: underline line-through;
+}
+.orientation-opposed .underline-strikethrough {
+	text-decoration: overline line-through;
+}
